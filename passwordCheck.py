@@ -23,6 +23,7 @@ def check_password_strength(password):
             r'(?i)123456',
             r'(?i)qwerty',
             r'(?i)admin',
+            r'(?i)root',
             # Add more common patterns as needed
         ]
         
